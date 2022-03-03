@@ -1,0 +1,13 @@
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\bin\Debug\Tarea6.exe.config
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\bin\Debug\Tarea6.exe
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\bin\Debug\Tarea6.pdb
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\bin\Debug\Tarea6.xml
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.vbproj.AssemblyReference.cache
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.vbproj.SuggestedBindingRedirects.cache
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.Form1.resources
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.Resources.resources
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.vbproj.GenerateResource.cache
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.vbproj.CoreCompileInputs.cache
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.exe
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.xml
+C:\Users\carloshg\Desktop\Tarea6\Tarea6\obj\Debug\Tarea6.pdb
